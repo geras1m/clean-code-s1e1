@@ -49,11 +49,13 @@
   padding: 0px;
 }
 
-.tasks__item, .tasks__title {
+.tasks__item,
+.tasks__title {
   list-style: none;
 }
 
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 
